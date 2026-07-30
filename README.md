@@ -1,3 +1,24 @@
+# Hi there, I'm Muh Ridho Alfarod! 👋
+
+I am an Informatics student at the **Kalimantan Institute of Technology (ITK)** with a strong interest in Cloud Computing, Web Development, and Cyber Security. I have experience in developing desktop applications using Java, as well as building websites using HTML, CSS, JavaScript, and MySQL databases. I am actively involved in campus organizations and have hands-on experience working on various academic projects utilizing Web Technologies and Artificial Intelligence.
+
+### 📬 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhridhoalfarod/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/rdhoalfrd" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@rdhoalfrd" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 **Programming Languages & Frontend:**
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -32,3 +53,36 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
 </p>
+
+**DevOps, Cloud & Infrastructure:**
+<p align="left">
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </a>
+
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  </a>
+
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+
+</p>
+
+---
+
+⚡ *"Learning by doing, automating the boring stuff."* , saya ingin menambahkan react js dan vue js 
